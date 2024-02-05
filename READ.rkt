@@ -1,4 +1,5 @@
-# Just nostalgic name
+;; just a nostalgic name
+_______________________________________________________________________________
 (require spd/tags)
 (require 2htdp/image)
 (require 2htdp/universe)
