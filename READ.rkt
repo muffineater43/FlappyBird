@@ -20,14 +20,14 @@ _______________________________________________________________________________
 (define PIPE-V-GAP (* FLAPPY-LEN 5.5)) ; vertical gap between pipes
 (define PIPE-H-GAP (* 4 PIPE-WIDTH)) ; horizontal gap between pipes
 (define PIPE-SPEED 3) ; speed of pipe
-(define PIPE-COLOR "green") ; color of tubes
+(define PIPE-COLOR "darkgreen") ; color of tubes
 (define GRAVITY 0.9) ; downward acceleration
 (define MAX-ANGLE -10) ; maximum upward rotation 
 (define MIN-ANGLE 90) ; minimum angle 
 (define POINTS-X (/ WIDTH 2)) ; x position of 
 (define POINTS-Y (/ HEIGHT 5)) ; y position 
 (define TEXT-COLOR "white") ;score color
-(define FONT-SIZE 30) ;score font
+(define FONT-SIZE 20) ;score font
 (define ROTATE-SPEED 5) ; speed of bird rotating while falling
 
 ;; DATA DEFINITIONS ============================================================
